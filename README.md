@@ -5,6 +5,7 @@ Open the Project:
 Launch the Game:
 
 Use the Ren'Py launcher to run the visual novel.
+
 ------------Overview-----------------------------------------------------
 Assets
 This project incorporates external assets to enhance the visual experience:
