@@ -7,6 +7,8 @@ Launch the Game:
 Use the Ren'Py launcher to run the visual novel.
 
 ------------Overview-----------------------------------------------------
+
+
 Assets
 This project incorporates external assets to enhance the visual experience:
 
@@ -14,11 +16,16 @@ Alphonse Pack by MintTyDrops
 Ronan VN Pack by MintTyDrops
 Rune VN Pack by MintTyDrops
 Fantasy Swamp Backgrounds by Lornn
+
+
 --------------------------------------------------------------------------
 https://minttydrops.itch.io/alphonse-pack
 https://minttydrops.itch.io/ronan-vn-pack
 https://minttydrops.itch.io/rune-vn-pack
 https://lornn.itch.io/fantasy-swamp-backgrounds?download#google_vignette
+
+
+
 Contributing
 IMPORTANT NOTICE:
 
